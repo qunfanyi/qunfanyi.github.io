@@ -1,1 +1,6 @@
+title: Your awesome title
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  一起翻译前沿技术文档，为中国 IT 贡献力量
+
 theme: jekyll-theme-cayman
