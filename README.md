@@ -5,9 +5,9 @@
 
 ### 正在翻译文档
 * OpenAPI-spec 3.0.1
-* RFC- HTTP
-* RFC- OAuth2
-* 
+* RFC2617 - HTTP Authentication: Basic and Digest Access Authentication
+* RFC6749 - The OAuth 2.0 Authorization Framework 中文版
+
 
 ### 候选文档
 * JSR-
