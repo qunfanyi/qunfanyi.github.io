@@ -1,6 +1,12 @@
 title: 群翻译 qunfanyi.com
-email: qunfanyi.com
+email: qunfanyi@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
   一起翻译前沿技术文档，为中国 IT 贡献力量
 
 theme: jekyll-theme-cayman
+
+github_username: qunfanyi
+jianshu_username: 6d5497358167
+#zhihu_username: qunfanyi
+
+ba_track_id: e766cbe73366532ec1161fe6b7d7505c
